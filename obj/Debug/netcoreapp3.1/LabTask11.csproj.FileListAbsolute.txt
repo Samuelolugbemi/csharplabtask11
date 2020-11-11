@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\bin\Debug\netcoreapp3.1\LabTask11.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\bin\Debug\netcoreapp3.1\LabTask11.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\bin\Debug\netcoreapp3.1\LabTask11.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\bin\Debug\netcoreapp3.1\LabTask11.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\bin\Debug\netcoreapp3.1\LabTask11.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\bin\Debug\netcoreapp3.1\LabTask11.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\obj\Debug\netcoreapp3.1\LabTask11.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\obj\Debug\netcoreapp3.1\LabTask11.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\obj\Debug\netcoreapp3.1\LabTask11.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\obj\Debug\netcoreapp3.1\LabTask11.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task11\LabTask11\obj\Debug\netcoreapp3.1\LabTask11.pdb
